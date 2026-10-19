@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 I'm Zunaira Ali
 
-<!--
-**Zunyera/Zunyera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Web Developer | Learning SEO
 
-Here are some ideas to get you started:
+I'm a passionate Web Developer who enjoys building responsive, user-friendly web applications. I'm also learning Search Engine Optimization (SEO) to improve website visibility and understand how websites perform in search engines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js
+- **Databases:** MongoDB, SQL
+- **API Testing:** Postman
+- **Tools & Technologies:** Docker, Git, GitHub
+- **Currently Learning:** Search Engine Optimization (SEO)
+
+### 🚀 What I Do
+
+- Build responsive and interactive web interfaces.
+- Develop backend functionality for web applications.
+- Work with databases to store and manage data.
+- Test APIs using Postman.
+- Use Docker for containerization.
+- Learn SEO fundamentals and website optimization.
+
+### 📌 Projects
+
+Explore my repositories to see my web development projects and ongoing learning journey.
+
+### 🤝 Connect With Me
+
+- **GitHub:** [Zunyera](https://github.com/Zunyera)
